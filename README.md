@@ -17,8 +17,6 @@ Just run the first cell, and you’ll have everything you need.
 
 ## 2. Advanced Algorithms & Models
 
-We submit only the **trained models** (no training code required). You can find:
-
 - **ResNet-50** fine-tuned checkpoints in `resnet_model_history/`  
 - **DINOv2** pre-trained embeddings in `dino_model_history/`  
 - **MegaDescriptor** model in `MegaDescriptor.ipynb`
