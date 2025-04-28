@@ -1,6 +1,6 @@
 # AnimalCLEF25-CVPR-FGVC-LifeCLEF
 
-Below are information of each file: 
+Below is information of each file: 
 
 Code.ipynb--Code for resnet and dino model;
 
