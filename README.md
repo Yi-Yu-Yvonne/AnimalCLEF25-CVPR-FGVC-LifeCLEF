@@ -53,7 +53,7 @@ In `MegaDescriptor.ipynb` it includes clear, in-line comments showing how to:
 ---
 
 ## File description
-- `data_process_analysis.ipynb` — Data preprocessing  
+- `Data_Process_Analysis.ipynb` — Data preprocessing  
 
 - `ResNet_Dino.ipynb` — Code for ResNet and DINO models  
     - `resnet_model_history/` — Fine-tuned ResNet checkpoints  
@@ -67,7 +67,6 @@ In `MegaDescriptor.ipynb` it includes clear, in-line comments showing how to:
 
 - `result/` — Submission CSV files to the website  
   - `Score.xlsx` — Scores of the experiment  
-- `Presentation.pdf` — Slides for presentation  
 
 ---
 
