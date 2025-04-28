@@ -47,10 +47,8 @@ In `ResNet_Dino.ipynb` it includes clear, in-line comments showing how to:
 
 In `MegaDescriptor.ipynb` it includes clear, in-line comments showing how to:
 
-1. **Load** the trained model  
-2. **Prepare** a batch of test images  
-3. **Run** the model on those images  
-4. **Output** CSV submissions  
+6. **Main Execution** 
+7. **Create Submission Files**
 
 ---
 
