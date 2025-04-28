@@ -17,3 +17,5 @@ resnet_model_history--resnet model files;
 dino_model_history--dino model files;
 
 MegaModel--megamodel files and code with specific readme file inside.
+
+![Testing image](blob/main/MegaScore)
