@@ -20,4 +20,4 @@ MegaModel--megamodel files and code with specific readme file inside.
 
 ![Testing image](/Finetune_Resnet_Score.png)
 ![Testing image](/Finetune_Resnet_Score.png)
-![Testing image](/MegaScore.png)
+![Testing image](/MegaScore.jpg)
