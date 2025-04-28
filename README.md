@@ -21,11 +21,7 @@ We submit only the **trained models** (no training code required). You can find:
 
 - **ResNet-50** fine-tuned checkpoints in `resnet_model_history/`  
 - **DINOv2** pre-trained embeddings in `dino_model_history/`  
-- **MegaDescriptor** models in `MegaModel/` (with its own README)
-
-To inspect how inference is done, see the commented sections in:
-- `Code.ipynb`  
-- `MegaDescriptor.ipynb`
+- **MegaDescriptor** models in `MegaDescriptor.ipynb`
 
 ---
 
@@ -44,7 +40,12 @@ A few sample images for quick testing. For example:
 
 ## 4. Running Inference
 
-Each notebook includes clear, in-line comments showing how to:
+In `ResNet_Dino.ipynb` it includes clear, in-line comments showing how to:
+
+6. **Ensemble Model Prediction**
+7. **Single Model Prediction**
+
+In `MegaDescriptor.ipynb` it includes clear, in-line comments showing how to:
 
 1. **Load** the trained model  
 2. **Prepare** a batch of test images  
