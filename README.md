@@ -31,12 +31,11 @@ To inspect how inference is done, see the commented sections in:
 
 ## 3. Test / Validation Examples
 
-A few sample images for quick testing are provided in `test_images/`. For example:
+A few sample images for quick testing. For example:
 
-![Zebra sample]()  
-![Toucan sample]()
-
-Feel free to swap in any other validation images—your own or from the challenge.
+![Salamander sample](0a2b29c15d9c4d2b_80.jpg)  
+![Lynx sample](0a8eb6e2dc2e6dc8fd1013f651a880b69cb9e7e6a4c4dfdbe4f23919f509ff80.jpg)
+![Turtle sample](anuJvqUqBB_12.JPG)
 
 ---
 
@@ -49,11 +48,30 @@ Each notebook includes clear, in-line comments showing how to:
 3. **Run** the model on those images  
 4. **Output** CSV submissions  
 
-Just scroll to the “Inference” section of the notebook and follow the markdown cells.
-
 ---
 
 ## Folder Structure
+AnimalCLEF25-CVPR-FGVC-LifeCLEF/
+├── Code.ipynb
+├── MegaDescriptor.ipynb
+├── data_process_analysis.ipynb
+├── Presentation.pdf
+├── Score.xlsx
+├── result/
+│   ├── submission_round1.csv
+│   └── submission_round2.csv
+├── resnet_model_history/
+│   ├── resnet_epoch_10.pth
+│   └── resnet_epoch_20.pth
+├── dino_model_history/
+│   ├── dino_pretrained.pth
+│   └── dino_finetuned.pth
+├── MegaModel/
+│   ├── megadescriptor_final.pth
+│   └── README.md
+└── test_images/
+    ├── zebra_01.jpg
+    └── toucan_02.jpg
 
 ---
 
