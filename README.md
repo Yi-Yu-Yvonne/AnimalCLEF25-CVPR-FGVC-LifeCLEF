@@ -30,9 +30,9 @@ We submit only the **trained models** (no training code required). You can find:
 A few sample images for quick testing. For example:
 
 <p float="left">
-  <img src="test_sample_image/0a2b29c15d9c4d2b_80.jpg" alt="Salamander sample" height="150" />
-  <img src="test_sample_image/0a8eb6e2dc2e6dc8fd1013f651a880b69cb9e7e6a4c4dfdbe4f23919f509ff80.jpg" alt="Lynx sample" height="150" />
-  <img src="test_sample_image/anuJvqUqBB_12.JPG" alt="Turtle sample" height="150" />
+  <img src="sample_image/0a2b29c15d9c4d2b_80.jpg" alt="Salamander sample" height="150" />
+  <img src="sample_image/0a8eb6e2dc2e6dc8fd1013f651a880b69cb9e7e6a4c4dfdbe4f23919f509ff80.jpg" alt="Lynx sample" height="150" />
+  <img src="sample_image/anuJvqUqBB_12.JPG" alt="Turtle sample" height="150" />
 </p>
 
 
