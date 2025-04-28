@@ -11,7 +11,7 @@ All installation steps (environment setup, required libraries, etc.) are provide
 - **ResNet_Dino.ipynb** (ResNet & DINO workflows)  
 - **MegaDescriptor.ipynb** (our contrastive-learning–based descriptor)
 
-Just click **“Open in Colab”**, run the first cell, and you’ll have everything you need.
+Just run the first cell, and you’ll have everything you need.
 
 ---
 
