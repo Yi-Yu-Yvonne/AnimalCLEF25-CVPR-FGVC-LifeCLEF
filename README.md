@@ -18,4 +18,4 @@ dino_model_history--dino model files;
 
 MegaModel--megamodel files and code with specific readme file inside.
 
-![Testing image](blob/main/MegaScore)
+![Testing image]([blob/main/MegaScore](https://github.com/Yi-Yu-Yvonne/AnimalCLEF25-CVPR-FGVC-LifeCLEF/blob/main/Finetune_Resnet_Score.png))
