@@ -1,0 +1,9 @@
+animalvenv/
+Kaggle/
+animal-clef-2025/
+dino_model_history/
+dino_model_history copy/
+resnet_model_history/
+resnet_model_history copy/
+*.pt
+*.pkl

@@ -51,20 +51,27 @@ Each notebook includes clear, in-line comments showing how to:
 ---
 
 ## File description
-- `Code.ipynb` — Code for ResNet and DINO models  
+- `data_process_analysis.ipynb` — Data preprocessing  
+
+- `ResNet_Dino.ipynb` — Code for ResNet and DINO models  
+    - `resnet_model_history/` — Fine-tuned ResNet checkpoints  
+    - `dino_model_history/` — DINO model files  
+
+- `MegaModel/` — Code for MegaDescriptor  
+  1. Upload your dataset to the repo root  
+  2. Update the `DATA_PATH` variable at the top of the notebook  
+  3. Run all cells up through section **6.3**  
+  4. Change the `drive_path` to point at your `AnimalCLEF2025` folder  
+  5. Continue running from section **6.4** onward  
+  - `Mega_Embedding_Id/` — Embeddings and identities for the dataset
+
+- `result/` — Submission CSV files to the website  
 - `Presentation.pdf` — Slides for presentation  
 - `Score.xlsx` — Scores of the experiment  
-- `data_process_analysis.ipynb` — Data preprocessing  
-- `result/` — Submission CSV files to the website  
-- `resnet_model_history/` — Fine-tuned ResNet checkpoints  
-- `dino_model_history/` — DINO model files  
-- `MegaModel/` — MegaDescriptor files (with its own README inside)  
-
-
 ---
 
 ### Leaderboard Scores
 
-![Testing image](/MegaScore.jpg)
-![Testing image](/Finetune_Resnet_Score.png)
-![Testing image](/Finetune_Resnet_Score.png)
+![Testing image](result/MegaScore.jpg)
+![Testing image](result/Finetune_Resnet_Score.png)
+![Testing image](result/Finetune_Resnet_Score.png)
