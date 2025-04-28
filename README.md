@@ -68,8 +68,9 @@ In `MegaDescriptor.ipynb` it includes clear, in-line comments showing how to:
   - `mega_embedding_id/` — Embeddings and identities for the dataset
 
 - `result/` — Submission CSV files to the website  
+  - `Score.xlsx` — Scores of the experiment  
 - `Presentation.pdf` — Slides for presentation  
-- `Score.xlsx` — Scores of the experiment  
+
 ---
 
 ### Leaderboard Scores
