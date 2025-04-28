@@ -76,3 +76,9 @@ In `MegaDescriptor.ipynb` it includes clear, in-line comments showing how to:
 ![Testing image](result/Mega_Test_Score.jpg)
 ![Testing image](result/Finetune_Resnet_Test_Score.png)
 ![Testing image](result/Finetune_Resnet_Test_Score.png)
+
+---
+
+### Presentation Slides
+
+- [View PDF](https://github.com/Yi-Yu-Yvonne/AnimalCLEF25-CVPR-FGVC-LifeCLEF/blob/main/Presentation.pdf)
