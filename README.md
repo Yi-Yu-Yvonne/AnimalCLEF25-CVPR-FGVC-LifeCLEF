@@ -8,8 +8,8 @@ This repository contains our code, models, and example data for the AnimalCLEF25
 
 All installation steps (environment setup, required libraries, etc.) are provided in the first code cell of each notebook when opened in Google Colab:
 
-- **Code.ipynb** (ResNet & DINO workflows)  
-- **Mega.ipynb** (our contrastive-learning–based descriptor)
+- **ResNet_Dino.ipynb** (ResNet & DINO workflows)  
+- **MegaDescriptor.ipynb** (our contrastive-learning–based descriptor)
 
 Just click **“Open in Colab”**, run the first cell, and you’ll have everything you need.
 
@@ -21,7 +21,7 @@ We submit only the **trained models** (no training code required). You can find:
 
 - **ResNet-50** fine-tuned checkpoints in `resnet_model_history/`  
 - **DINOv2** pre-trained embeddings in `dino_model_history/`  
-- **MegaDescriptor** models in `Mega.ipynb`
+- **MegaDescriptor** models in `MegaDescriptor.ipynb`
 
 ---
 
@@ -45,7 +45,7 @@ In `ResNet_Dino.ipynb` it includes clear, in-line comments showing how to:
 6. **Ensemble Model Prediction**
 7. **Single Model Prediction**
 
-In `Mega.ipynb` it includes clear, in-line comments showing how to:
+In `MegaDescriptor.ipynb` it includes clear, in-line comments showing how to:
 
 1. **Load** the trained model  
 2. **Prepare** a batch of test images  
@@ -65,7 +65,7 @@ In `Mega.ipynb` it includes clear, in-line comments showing how to:
   1. Upload your dataset to the repo root  
   2. Update the `DATA_PATH` variable at the top of the notebook  
   3. Run all cells  
-  - `Mega_Embedding_Id/` — Embeddings and identities for the dataset
+  - `mega_embedding_id/` — Embeddings and identities for the dataset
 
 - `result/` — Submission CSV files to the website  
 - `Presentation.pdf` — Slides for presentation  
