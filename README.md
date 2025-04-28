@@ -50,28 +50,16 @@ Each notebook includes clear, in-line comments showing how to:
 
 ---
 
-## Folder Structure
-AnimalCLEF25-CVPR-FGVC-LifeCLEF/
-├── Code.ipynb
-├── MegaDescriptor.ipynb
-├── data_process_analysis.ipynb
-├── Presentation.pdf
-├── Score.xlsx
-├── result/
-│   ├── submission_round1.csv
-│   └── submission_round2.csv
-├── resnet_model_history/
-│   ├── resnet_epoch_10.pth
-│   └── resnet_epoch_20.pth
-├── dino_model_history/
-│   ├── dino_pretrained.pth
-│   └── dino_finetuned.pth
-├── MegaModel/
-│   ├── megadescriptor_final.pth
-│   └── README.md
-└── test_images/
-    ├── zebra_01.jpg
-    └── toucan_02.jpg
+## File description
+- `Code.ipynb` — Code for ResNet and DINO models  
+- `Presentation.pdf` — Slides for presentation  
+- `Score.xlsx` — Scores of the experiment  
+- `data_process_analysis.ipynb` — Data preprocessing  
+- `result/` — Submission CSV files to the website  
+- `resnet_model_history/` — Fine-tuned ResNet checkpoints  
+- `dino_model_history/` — DINO model files  
+- `MegaModel/` — MegaDescriptor files (with its own README inside)  
+
 
 ---
 
